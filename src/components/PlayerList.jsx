@@ -1,5 +1,7 @@
 import React from "react"; //optional
 import Player from "./Player";
+import matchData from "../data/matchData";
+import playerData from "../data/playerData";
 
 function PlayerList() {
   return (
