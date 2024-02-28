@@ -1,4 +1,4 @@
-import React from "react"; // optional
+import React from "react"; //optional
 import Player from "./Player";
 
 function PlayerList() {

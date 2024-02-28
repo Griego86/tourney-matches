@@ -1,4 +1,4 @@
-import React from "react"; // optional
+import React from "react"; //optional
 
 function Match() {
   return (
@@ -13,5 +13,4 @@ function Match() {
     </article>
   );
 }
-
 export default Match;
