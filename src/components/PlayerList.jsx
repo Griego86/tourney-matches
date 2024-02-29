@@ -1,6 +1,5 @@
 import React from "react"; //optional
 import Player from "./Player";
-import { preparePlayerData, addWinsToPlayers } from "../helpers/playerHelpers";
 
 function PlayerList(props) {
 
